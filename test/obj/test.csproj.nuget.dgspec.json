@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Steve\\source\\repos\\test\\test\\test.csproj": {}
+    "D:\\Hochschule\\Claas\\Claas-Projektarbeit\\test\\test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Steve\\source\\repos\\test\\test\\test.csproj": {
+    "D:\\Hochschule\\Claas\\Claas-Projektarbeit\\test\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Steve\\source\\repos\\test\\test\\test.csproj",
+        "projectUniqueName": "D:\\Hochschule\\Claas\\Claas-Projektarbeit\\test\\test.csproj",
         "projectName": "test",
-        "projectPath": "C:\\Users\\Steve\\source\\repos\\test\\test\\test.csproj",
+        "projectPath": "D:\\Hochschule\\Claas\\Claas-Projektarbeit\\test\\test.csproj",
         "packagesPath": "C:\\Users\\Steve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Steve\\source\\repos\\test\\test\\obj\\",
+        "outputPath": "D:\\Hochschule\\Claas\\Claas-Projektarbeit\\test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Steve\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
